@@ -1,0 +1,12 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\bin\Debug\Tugas_3_Pemrgoraman_Framework.NET.exe.config
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\bin\Debug\Tugas_3_Pemrgoraman_Framework.NET.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\bin\Debug\Tugas_3_Pemrgoraman_Framework.NET.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\bin\Debug\Tugas_3_Pemrgoraman_Framework.NET.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas 3 Pemrgoraman Framework .NET.vbprojAssemblyReference.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.Form1.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas 3 Pemrgoraman Framework .NET.vbproj.GenerateResource.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas 3 Pemrgoraman Framework .NET.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 3 Pemrgoraman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.pdb

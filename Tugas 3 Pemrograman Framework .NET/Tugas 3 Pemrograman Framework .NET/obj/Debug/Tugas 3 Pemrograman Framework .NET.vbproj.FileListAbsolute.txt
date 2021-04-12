@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\bin\Debug\Tugas 3 Pemrograman Framework .NET.exe.config
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\bin\Debug\Tugas 3 Pemrograman Framework .NET.exe
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\bin\Debug\Tugas 3 Pemrograman Framework .NET.pdb
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\bin\Debug\Tugas 3 Pemrograman Framework .NET.xml
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas 3 Pemrograman Framework .NET.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.Form1.resources
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas_3_Pemrgoraman_Framework.NET.Resources.resources
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas 3 Pemrograman Framework .NET.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas 3 Pemrograman Framework .NET.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas 3 Pemrograman Framework .NET.exe
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas 3 Pemrograman Framework .NET.xml
+C:\Users\DELL\source\repos\Tugas 3 Pemrograman Framework .NET\Tugas 3 Pemrograman Framework .NET\obj\Debug\Tugas 3 Pemrograman Framework .NET.pdb
