@@ -1,0 +1,24 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas_4_Pemrograman_Framework.NET.exe.config
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas_4_Pemrograman_Framework.NET.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas_4_Pemrograman_Framework.NET.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas_4_Pemrograman_Framework.NET.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.vbprojAssemblyReference.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.Form1.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.vbproj.GenerateResource.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.pdb
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas 4 Pemrograman Framework .NET.exe.config
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas 4 Pemrograman Framework .NET.exe
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas 4 Pemrograman Framework .NET.pdb
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\bin\Debug\Tugas 4 Pemrograman Framework .NET.xml
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.Form1.resources
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas_4_Pemrograman_Framework.NET.Resources.resources
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.exe
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.xml
+C:\Users\DELL\source\repos\Tugas 4 Pemrograman Framework .NET\Tugas 4 Pemrograman Framework .NET\obj\Debug\Tugas 4 Pemrograman Framework .NET.pdb
